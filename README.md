@@ -4,6 +4,8 @@
 
 # https://kevindv19.github.io
 
+<img src="registro.png">
+
 # Firebase ejemplo:
 
 <img src="Firebase.png">
