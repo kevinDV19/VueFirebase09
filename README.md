@@ -1,24 +1,9 @@
-# yt
+# Vue.js 3 Firebase 9 Auth, autenticación, registro, log in, log out y rutas protegidas
 
-## Project setup
-```
-npm install
-```
+# Registrar:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# https://kevindv19.github.io/login
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
