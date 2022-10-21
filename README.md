@@ -6,7 +6,7 @@
 
 # Firebase ejemplo:
 
-<img src="firebase.jpg">
+<img src="Firebase.png">
 
 
 
