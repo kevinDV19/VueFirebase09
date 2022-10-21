@@ -2,7 +2,7 @@
 
 # Registrar:
 
-# https://kevindv19.github.io/login
+# https://kevindv19.github.io
 
 
 
